@@ -1,0 +1,9 @@
+{
+    "name": "Andrea Cerfoglia",
+    "image" : "img/nlogo.png",
+    "bio": "Computer Engineering student at Poitecnico di Milano",
+    "social": [
+        { "instagram": "https://instagram.com/boshchi1999" },
+        { "github": "https://github.com/TheBigBoschi" }
+    ]
+}
