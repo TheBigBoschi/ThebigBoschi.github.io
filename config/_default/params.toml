@@ -12,8 +12,8 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["docs"]
-# robots = ""
+mainSections = ["projects"]
+#robots = " <!-- <meta name="google-site-verification" content="q38QQ7SWPxARg4yJQHIuEJuAiBpibc9j8wRX-luX0ts" />"
 
 disableImageOptimization = false
 
@@ -40,24 +40,24 @@ smartTOCHideUnfocusedChildren = false
   showRecent = false
   showRecentItems = 12
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "projects"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+  layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = true
   showLikes = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/TheBigBoschi/ThebigBoschi.github.io/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -66,9 +66,9 @@ smartTOCHideUnfocusedChildren = false
   showReadingTime = true
   showTableOfContents = true
   showRelatedContent = true
-  relatedContentLimit = 6
-  showTaxonomies = true 
-  showAuthorsBadges = true 
+  relatedContentLimit = 3
+  showTaxonomies = false 
+  showAuthorsBadges = false 
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
 
@@ -113,24 +113,24 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
   
 [firebase]
-  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
-  authDomain = "blowfish-21fff.firebaseapp.com"
-  projectId = "blowfish-21fff"
-  storageBucket = "blowfish-21fff.appspot.com"
-  messagingSenderId = "60108104191"
-  appId = "1:60108104191:web:039842ebe1370698b487ca"
-  measurementId = "G-PEDMYR1V0K"
+  apiKey = "AIzaSyB2RWOkuyMaNAGEKjZT_yUvJkrQAEYde8s"
+  authDomain = "boschi-s-github-pages.firebaseapp.com"
+  projectId = "boschi-s-github-pages"
+  storageBucket = "boschi-s-github-pages.appspot.com"
+  messagingSenderId = "412429790537"
+  appId = "1:412429790537:web:471f3601280e4835a7be98"
+  measurementId = "G-1XSNGHM6KS"
 
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
-[buymeacoffee]
-  identifier = "nunocoracao"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
+#[buymeacoffee]
+#  identifier = "nunocoracao"
+#  globalWidget = true
+#  globalWidgetMessage = ""
+#  globalWidgetColor = "#FFDD00"
+#  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
