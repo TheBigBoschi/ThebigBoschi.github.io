@@ -2,6 +2,9 @@
 title: "Welcome to Blowfish! :tada:"
 description: "This is a demo of the Blowfish theme for Hugo."
 ---
+<head>
+    <meta name="google-site-verification" content="q38QQ7SWPxARg4yJQHIuEJuAiBpibc9j8wRX-luX0ts" />  <!-- dont remove. used for google indexing-->
+<!head>
 A collection of my work spanning from woodworking to electronics, intrested in anything and everything that ticks or makes electron flow
 
 
