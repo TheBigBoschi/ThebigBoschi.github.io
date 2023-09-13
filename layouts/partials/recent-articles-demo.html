@@ -16,10 +16,7 @@
         </button>
     </span>
 </div>
---->
-<div id="CardViewProse" class="h-full">
-    {{ partial "recent-articles/cardview.html" . }}
-</div>
+
 
 <div id="CardViewScreenWidth" class="hidden h-full">
     {{ partial "recent-articles/cardview-fullwidth.html" . }}
@@ -27,6 +24,11 @@
 
 <div id="NormalView" class="hidden h-full">
     {{ partial "recent-articles/list.html" . }}
+</div>
+--->
+
+<div id="CardViewProse" class="h-full">
+    {{ partial "recent-articles/cardview.html" . }}
 </div>
 
 {{ if .Site.Params.homepage.showMoreLink | default false }}

@@ -15,6 +15,24 @@
   pageRef = "projects"
   weight = 10
 
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 20
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "www.linkedin.com/in/andrea-cerfoglia-867a94166"
+  weight = 300
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/TheBigBoschi"
+  weight = 400
+
+
 #[[main]]
 #  name = "Shortcodes"
 #  pageRef = "docs/shortcodes"
@@ -62,17 +80,6 @@
 #  url = "https://twitter.com/burufugu"
 #  weight = 200
 
-[[main]]
-  identifier = "linkedin"
-  pre = "linkedin"
-  url = "www.linkedin.com/in/andrea-cerfoglia-867a94166"
-  weight = 300
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/TheBigBoschi"
-  weight = 400
 
 
 # -- Footer Menu --

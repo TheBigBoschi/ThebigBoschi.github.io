@@ -2,7 +2,8 @@
 title: "Welcome to Blowfish! :tada:"
 description: "This is a demo of the Blowfish theme for Hugo."
 ---
-A collection of my work spanning from woodworking to electronics 
+A collection of my work spanning from woodworking to electronics, intrested in anything and everything that ticks or makes electron flow
+
 
 <!-- #This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Blowfish is flexible #and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts.
 

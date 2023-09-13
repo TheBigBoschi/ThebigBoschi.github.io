@@ -1,27 +1,27 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Andrea Cerfoglia"
+title = "Andrea's Blog"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/Blogo nero.png"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  #description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Andrea Cerfoglia"
   image = "img/logo.png"
- # headline = "Computer Engineering student at Poitecnico di Milano""
+  headline = "Computer Engineering student at Poitecnico di Milano" 
   bio = "Computer Engineering student at Poitecnico di Milano, intrested in anything and everything that ticks or makes electron flow"
   links = [
-  
-  
+
     { github = "https://github.com/TheBigBoschi" },
+    { linkedin = "http://localhost:1313/www.linkedin.com/in/andrea-cerfoglia-867a94166"},
   ]
 
   
