@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graph on Andrea&#39;s Blog</title>
+    <link>https://TheBigBoschi.github.io/tags/graph/</link>
+    <description>Recent content in graph on Andrea&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Andrea Cerfoglia</copyright>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://TheBigBoschi.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charts</title>
+      <link>https://TheBigBoschi.github.io/projects/file1-copy-2/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://TheBigBoschi.github.io/projects/file1-copy-2/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://TheBigBoschi.github.io/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://TheBigBoschi.github.io/samples/charts/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://TheBigBoschi.github.io/samples/charts/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netlify on Andrea&#39;s Blog</title>
+    <link>https://TheBigBoschi.github.io/tags/netlify/</link>
+    <description>Recent content in netlify on Andrea&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Andrea Cerfoglia</copyright>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://TheBigBoschi.github.io/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hosting &amp; Deployment</title>
+      <link>https://TheBigBoschi.github.io/docs/hosting-deployment/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://TheBigBoschi.github.io/docs/hosting-deployment/</guid>
+      <description>There are many ways to deploy your Hugo website built with Blowfish.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://TheBigBoschi.github.io/docs/hosting-deployment/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
